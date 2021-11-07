@@ -4,13 +4,14 @@
 - [HTML, CSS, and Git:](#html-css-and-git)
 - [Description](#description)
 - [Deployment](#deployment)
+- [Image Credit](#image-credit)
 - [References](#references)
 
 ## HTML, CSS, and Git:
 02 Advanced CSS: drashtee-portfolio
 
 ## Description
-This homework assignment aims for building portfolio page, which can be added to the progress of the skill learned in the course for the future success by applying the core skills that have learned during the class. 
+This homework assignment aims to build a portfolio page that can add to the skill learned in the course for future success by applying the core skills learned during the class and doing the research.
 
 ## Deployment
 Two options are provided the first one is link and second one thats click me that will redirect to the page
@@ -20,7 +21,6 @@ Two options are provided the first one is link and second one thats click me tha
 - Application live GitHub URL submitted link : 
   - https://dparmar32.github.io/drashtee-portfolio/
   - [Click Here](https://dparmar32.github.io/drashtee-portfolio/)
-https://dparmar32.github.io/drashtee-portfolio/
 
 ## Image Credit
 
