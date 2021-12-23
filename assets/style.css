@@ -205,8 +205,9 @@ main {
 
 /* background images for work */
 .surf-report {
-    background-image: url("./images/surf-report.jpeg");
+    background-image: url("./images/trekstats1.jpeg");
 }
+
 
 .horiseon {
     background-image: url("./images/horiseon.jpeg");
@@ -223,7 +224,9 @@ main {
 .password-generator {
     background-image: url("./images/password-generator.jpeg");
 }
-
+.weather-dashboard{
+    background-image: url("./images/weather_img.jpeg");
+}
 
 /* Contact Me */
 .contact-me address {
@@ -260,6 +263,8 @@ footer {
     text-align    : center;
     vertical-align: bottom;
 }
+
+
 
 /* Media Query */
 @media screen and (max-width: 980px) {
@@ -347,19 +352,27 @@ footer {
     display: flex;
     justify-content: center;
     padding: 5px;
-    background-color: #dce3eb;
+    /* background-color: #dce3eb; */
     /* color: #fff; */
 }
+
 
 @media (min-width: 768px) {
     .bd-placeholder-img-lg {
         font-size: 3.5rem;
     }
 }
-
-.social-icon {
-    margin: 20px 10px;
+.resume, .social-icon{
+    color: black;
+    background-color: rgba(0, 0, 0, .15);
 }
+
+
+
+/* .social-icon, .work_experience, .skills_table, .education_table, .title_table{
+    margin: 20px 10px;
+    color: black;
+} */
 
 /* Max Width 768px*/
 @media screen and (max-width: 768px) {
