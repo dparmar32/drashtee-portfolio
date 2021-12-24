@@ -1,17 +1,54 @@
 
 ## Table of contents
 
-- [HTML, CSS, and Git:](#html-css-and-git)
+- [Title:](#title)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Requirements](#requirements)
 - [Description](#description)
 - [Deployment](#deployment)
 - [Image Credit](#image-credit)
 - [References](#references)
 
-## HTML, CSS, and Git:
-02 Advanced CSS: drashtee-portfolio
+## Title:
+Updated: drashtee-portfolio
 
-## Description
-This homework assignment aims to build a portfolio page that can add to the skill learned in the course for future success by applying the core skills learned during the class and doing the research.
+## User Story
+
+```
+AS AN employer
+I WANT to view a potential employee's deployed portfolio of work samples
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+```
+## Acceptance Criteria
+
+Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+
+```
+GIVEN I need to sample a potential employee's previous work
+WHEN I load their portfolio
+THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+WHEN I click one of the links in the navigation
+THEN the UI scrolls to the corresponding section
+WHEN I click on the link to the section about their work
+THEN the UI scrolls to a section with titled images of the developer's applications
+WHEN I am presented with the developer's first application
+THEN that application's image should be larger in size than the others
+WHEN I click on the images of the applications
+THEN I am taken to that deployed application
+WHEN I resize the page or view the site on various screens and devices
+THEN I am presented with a responsive layout that adapts to my viewport
+```
+
+##  Requirements
+
+1. [Updated Portfolio](https://dparmar32.github.io/drashtee-portfolio/)
+
+2. [Updated GitHub Profile](https://github.com/dparmar32/drashtee-portfolio)
+
+3. [Updated Resume](https://dparmar32.github.io/drashtee-portfolio/assets/images/Drashtee%20Parmar%20Resume.pdf)
+
+4. [Updated LinkedIn](https://www.linkedin.com/in/drashteeparmar/)
 
 ## Deployment
 Two options are provided the first one is link and second one thats click me that will redirect to the page
@@ -41,6 +78,7 @@ Two options are provided the first one is link and second one thats click me tha
 [RGB Color Codes Chart](https://www.rapidtables.com/web/color/RGB_Color.html)
 
 [Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
+
 [Font Awesome](https://gist.github.com/mohamdio/982653e3a8ae35f892f13c5ef0ef9b58)
 
 
