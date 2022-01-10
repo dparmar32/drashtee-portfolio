@@ -60,7 +60,7 @@ Two options are provided the first one is link and second one thats click me tha
   - [Click Here](https://dparmar32.github.io/drashtee-portfolio/)
 
 ## Project Visuals
-[Portfolio](/assets/video/portfolio.mov)
+![Portfolio](assets/video/portfolio.gif "Portfolio screen")
 ## Image Credit
 
 [Surf](https://thewaveshack.com/wp-content/uploads/2019/07/How-to-read-a-surf-report-thewaveshakc.com-min.jpg)
