@@ -60,8 +60,8 @@ Two options are provided the first one is link and second one thats click me tha
   - [Click Here](https://dparmar32.github.io/drashtee-portfolio/)
 
 ## Project Visuals
-![Portfolio](./assets/images/PoerfolioImg1.png)
-![Portfolio](./assets/images/PoerfolioImg2.png)
+![portfolioImg1](./assets/images/portfolioImg1.png)
+![portfolioImg2](./assets/images/portfolioImg2.png)
 
 ## Image Credit
 
