@@ -208,28 +208,28 @@ main {
 
 /* background images for work */
 .surf-report {
-    background-image: url("./images/trekstats1.jpeg");
+    background-image: url("../images/trekstats1.jpeg");
 }
 
 
 .horiseon {
-    background-image: url("./images/horiseon.jpeg");
+    background-image: url("../images/horiseon.jpeg");
 }
 
 .led-wall {
-    background-image: url("./images/led-wall.jpeg");
+    background-image: url("../images/led-wall.jpeg");
 }
 
 .calculator {
-    background-image: url("./images/calculator.jpeg");
+    background-image: url("../images/calculator.jpeg");
 }
 
 .password-generator {
-    background-image: url("./images/password-generator.jpeg");
+    background-image: url("../images/password-generator.jpeg");
 }
 
 .weather-dashboard {
-    background-image: url("./images/weather_img.jpeg");
+    background-image: url("../images/weather_img.jpeg");
 }
 
 /* Contact Me */
